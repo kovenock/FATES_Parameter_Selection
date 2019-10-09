@@ -1,10 +1,11 @@
 # Parameter Selection for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
 
-__Summary__<br>
+### Summary
 Numerical models that simulate tropical forest ecosystem dynamics, such as the Functionally Assembled Terrestrial Ecosystem Simulator (FATES), have been proposed as a way to improve climate change projections. However, parameterizing these complex, process-based models is challenging due to their numerous and interconnected non-linear relationships. This code identifies three high-performing FATES parameter sets by quantitatively evaluating the performance of nearly 300 simulations, each run with a unique parameter set, against observations at a tropical forest test site.
 
 <br>
-## Contents
+
+### Contents
 This repository contains several files used in the parameter selection analysis.
 
 'fates_parameter_selection.ipynb' is the main analysis file. This is file contains an introduction, the analysis, and a summary of results.
@@ -15,7 +16,7 @@ The 'data' folder conatins data in used in the analysis that is publicly availab
 
 <br>
 
-## Further Information
+### Further Information
 __Details of the parameter ensemble and analysis:__
 
 Kovenock, M. (2019). Ecosystem and large-scale climate impacts of plant leaf dynamics (Doctoral dissertation). Chapter 4: "Within-canopy gradient of specific leaf area improves simulation of tropical forest structure and functioning in a demographic vegetation model." http://hdl.handle.net/1773/44061
