@@ -6,18 +6,18 @@ Numerical models that simulate tropical forest ecosystem dynamics, such as the F
 <br>
 
 ### Contents
-This repository contains several files used in the parameter selection analysis.
+This repository contains the following files:
 
-'fates_parameter_selection.ipynb' is the main analysis file. This is file contains an introduction, the analysis, and a summary of results.
+_fates_parameter_selection.ipynb_: This is the main file used in this analysis. This is file contains an introduction, the analysis, a summary of results, and references.
 
-The 'ps_functions' folder contains several modules that define functions used in the main analysis code.
+The _ps_functions_ folder contains several modules that define functions used in the main analysis code.
 
-The 'data' folder conatins data in used in the analysis that is publicly available. Some data sets used in this analysis require special permission to use, or are not yet publicly available, and are therefore not included here.
+The <data> folder conatins the data files used in this analysis that are publicly available. Some data sets used in this analysis require special permission to use, or are not yet publicly available, and are therefore not included here.
 
 <br>
 
 ### Further Information
-__Details of the parameter ensemble and analysis:__
+__Details of the parameter ensemble and analysis herein:__
 
 Kovenock, M. (2019). Ecosystem and large-scale climate impacts of plant leaf dynamics (Doctoral dissertation). Chapter 4: "Within-canopy gradient of specific leaf area improves simulation of tropical forest structure and functioning in a demographic vegetation model." http://hdl.handle.net/1773/44061
 
