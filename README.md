@@ -1,7 +1,7 @@
 # Parameter Selection for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
 
 ### Summary
-Numerical models that simulate tropical forest ecosystem dynamics, such as the Functionally Assembled Terrestrial Ecosystem Simulator (FATES), have been proposed as a way to improve climate change projections. However, parameterizing these complex, process-based models is challenging due to their numerous and interconnected non-linear relationships. This code identifies three high-performing FATES parameter sets by quantitatively evaluating the performance of nearly 300 simulations, each run with a unique parameter set, against observations at a tropical forest test site.
+Numerical models that simulate tropical forest ecosystem dynamics, such as the Functionally Assembled Terrestrial Ecosystem Simulator (FATES), have been proposed as a way to improve projections of future climate change. However, parameterizing these complex, process-based models is challenging due to their numerous and interconnected non-linear relationships. This analysis identifies three high-performing parameter sets for use in future FATES experiments by quantitatively evaluating the performance of nearly 600 simulations, which test 300 unique parameter sets in 2 different background environments, against diverse observations at a tropical forest test site.
 
 <br>
 
@@ -10,9 +10,7 @@ This repository contains the following files:
 
 _fates_parameter_selection.ipynb_: This is the main file used in this analysis. This is file contains an introduction, the analysis, a summary of results, and references.
 
-The _ps_functions_ folder contains several modules that define functions used in the main analysis code.
-
-The <data> folder conatins the data files used in this analysis that are publicly available. Some data sets used in this analysis require special permission to use, or are not yet publicly available, and are therefore not included here.
+_psfxns_: This folder contains several modules that define functions used in the main analysis file above.
 
 <br>
 
