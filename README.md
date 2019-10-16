@@ -1,7 +1,7 @@
 # Parameter Selection for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)
 
 ### Summary
-Numerical models that simulate tropical forest ecosystem dynamics, such as the Functionally Assembled Terrestrial Ecosystem Simulator (FATES), have been proposed as a way to improve projections of future climate change. However, parameterizing these complex, process-based models is challenging due to their numerous and interconnected non-linear relationships. This analysis identifies three high-performing parameter sets for use in future FATES experiments by quantitatively evaluating the performance of nearly 600 simulations, which test 300 unique parameter sets in 2 different background environments, against diverse observations at a tropical forest test site.
+Numerical models that simulate tropical forest ecosystem dynamics, such as the Functionally Assembled Terrestrial Ecosystem Simulator (FATES), have been proposed as a way to improve projections of future climate change. However, parameterizing these complex, process-based models is challenging due to their numerous and interconnected non-linear relationships and relatively long spin-up requirements. This analysis identifies three high-performing parameter sets for use in future FATES experiments by quantitatively evaluating the performance of nearly 600 simulations, which test 300 unique parameter sets in two different background environments, against diverse observations at a tropical forest test site.
 
 <br>
 
