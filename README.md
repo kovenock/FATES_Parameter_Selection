@@ -12,7 +12,7 @@ _fates_parameter_selection.ipynb_: This is the main file used in this analysis. 
 
 _psfxns_: This folder contains several modules that define functions used in the main analysis file above.
 
-Note: If GitHub has trouble loading the _fates_parameter_selection.ipynb file_, visit https://nbviewer.jupyter.org/ and enter the url for this file's github page (https://github.com/kovenock/FATES_Parameter_Selection/blob/master/fates_parameter_selection.ipynb).
+Note: If GitHub has trouble loading the _fates_parameter_selection.ipynb_ file, visit https://nbviewer.jupyter.org/ and enter the url for the file's github page.
 
 <br>
 
