@@ -66,7 +66,6 @@ def annual_mean_fluxobs(mthts, startmth):
     mthts_dif = np.reshape(mthts, (1, -1))[:, startmth-1 : startmth-1-12]
     
     # Calculate annual mean time series
-    #annmeants = np.nanmean(np.reshape(mthts_dif, (5, 12)), axis=1)
     annmeants = np.nanmean(np.reshape(
         mthts_dif, (int(mthts_dif.shape[1] / 12), 12)), axis=1)
     
