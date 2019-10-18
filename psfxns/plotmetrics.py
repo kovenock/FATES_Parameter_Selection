@@ -9,7 +9,7 @@ def heatmap_subplot(heatdata, CO2indx, minval, maxval, plotnum, metriclabel,
     :param heatdata (numpy.ndarray): 3-D array containing a performance 
         metric values indexed by (CO2levels, varlist, nens)
     :param CO2indx (int): index for background carbon dioxide level,
-        where 0 = 367 ppm, 1 = 400ppm
+        where 0 = 367 ppm, 1 = 400 ppm
     :param minval (int, float): minimum value for heatmap colorbar
     :param maxval(int, float): maximum value for heatmap colorbar
     :param plotnum (int): subplot number
@@ -21,7 +21,6 @@ def heatmap_subplot(heatdata, CO2indx, minval, maxval, plotnum, metriclabel,
     
     # Number of parameter sets
     nens = np.size(heatdata,2)
-    
     #Subplot indexing paramter
     i = 2
     
